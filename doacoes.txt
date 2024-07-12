@@ -1,0 +1,55 @@
+Nome: beatriz mendes
+Endereço: sp
+Valor da Doação: 1000
+Item: uploads/WIN_20240625_14_19_24_Pro.jpg
+
+Nome: beatriz mendes
+Endereço: sp
+Valor da Doação: 1000
+Item: uploads/Captura de tela 2024-06-24 155508.png
+
+Nome: kaka
+Endereço: sp 
+Valor da Doação: 1000000
+Item: uploads/Captura de tela 2024-06-21 152602.png
+
+Nome: kaka
+Endereço: sp 
+Valor da Doação: 1000000
+Item: uploads/Captura de tela 2024-06-24 155330.png
+
+Nome: gabriel
+Endereço: sp 
+Valor da Doação: 1000000
+Item: uploads/Captura de tela 2024-06-24 154837.png
+
+Nome: gabriel 2
+Endereço: sp 
+Valor da Doação: 10
+Item: uploads/WIN_20240625_14_52_20_Pro.jpg
+
+Nome: gabriel 3
+Endereço: sp 
+Valor da Doação: 100
+Item: uploads/WIN_20240625_15_00_21_Pro.jpg
+
+Nome: s j 
+Endereço: xwbwbx
+Valor da Doação: 1000
+Item: uploads/WIN_20240625_15_03_59_Pro.jpg
+
+Nome: s j 
+Endereço: xwbwbx
+Valor da Doação: 1000
+Item: uploads/WIN_20240625_15_06_07_Pro.jpg
+
+Nome: teste
+Endereço: xwbwbx
+Valor da Doação: 900
+Item: uploads/WIN_20240625_15_26_57_Pro.jpg
+
+Nome: teste
+Endereço: xwbwbx
+Valor da Doação: 900
+Item: uploads/WIN_20240625_15_54_49_Pro.jpg
+
